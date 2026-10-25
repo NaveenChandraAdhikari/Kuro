@@ -1,0 +1,6 @@
+/kuro
+/.tmp/
+
+# Local planning and agent documents
+*.md
+docs/
